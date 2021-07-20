@@ -1,0 +1,2 @@
+# Voting-Website-
+I worked on the backend in this Project . In this anyone can register for a voting Group by adding all the candidates name , at the time of creation . Using Voting group number anyone can , vote a candidate ( Aadhar card number is used for unique vote from a person ) . All the details regading candidates and votes will be saved in mysql database , and it will be a real time presentation 
